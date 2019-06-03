@@ -18,6 +18,7 @@ P{
 }
 label{
   display: inline-block;
+  margin-top: auto;
 }
 body{
   background-image: url(../images/3.jpg);
