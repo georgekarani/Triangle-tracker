@@ -16,10 +16,19 @@ P{
   font-size-adjust: auto;
   float: left;
 }
-label{
+.form{
   display: inline-block;
+  float: left;
+  font-family: sans-serif;
+}
+label{
+  margin-left: auto;
+  margin-right: auto;
   margin-top: auto;
-  padding: inherit;
+  margin-bottom: auto;
+  font-family: sans-serif;
+  float:left;
+  display: inherit;
 }
 body{
   background-image: url(../images/3.jpg);
