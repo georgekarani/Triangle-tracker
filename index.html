@@ -8,3 +8,30 @@
   <link rel="icon" href="images/triangle-logo.webp">
   <title>Triangle Tracker</title>
 </head>
+<body>
+  <h1>Triangle Tracker</h1>
+  <div class="form">
+    <h4>TRACK YOUR TRIANGLE</h4>
+    <p>Enter the length of three sides of a triangle in cm and I will tell you which type of triangle it is</p>
+    <div class="input-field">
+      <label for="num1">Side A</label>
+      <input class="number" type="text" id="num1" name="num1">
+    </div>
+    <div class="input-field">
+       <label for="num2">Side B</label>
+        <input class="number" type="text" id="num2" name="num2">
+    </div>
+    <div class="input-field">
+      <label for="num3">Side C</label>
+      <input class="number" type="text" id="num3" name="num3">
+    </div>
+    <input class="button" type="button" value="Find Out" onclick="triangle()">
+    <input class="button" type="button" value="Reset" onclick="reset()">
+    <p id="display"></p>
+  </div>
+  <div id="footer">
+    <p>With <span><i class="fas fa-heart"></i></span> by George<p>
+  </div>
+</body>
+<script src="js/app.js"></script>
+</html>
