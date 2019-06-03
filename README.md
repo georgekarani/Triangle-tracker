@@ -22,7 +22,7 @@
 * Stable internet connection
 
 ### SETUP(installation)
-* git clone
+* git clone 
 * cd Triangle tracker
 * Open index.html on any browser
 
@@ -45,6 +45,7 @@
 
 
 ### Link Triangle Tracker to the Website app:
+Triangle tracker website: https://georgekarani.github.io/Triangle-tracker/
 
 
 ### Contact information
