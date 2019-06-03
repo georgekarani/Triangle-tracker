@@ -1,0 +1,21 @@
+/*********Heading***********************/
+/*************************************/
+h1{
+  color: blue;
+  font-style: normal;
+  font-family: sans-serif;
+  text-align: center;
+}
+/*********Body*******************************/
+/****************************************************/
+P{
+  font-size: 20PX;
+  font-style: normal;
+  font-family: sans-serif;
+}
+body{
+  background-image: url(../images/3.jpg);
+  height: 100vh;
+  background-size: contain;
+  background-position: center;
+}
