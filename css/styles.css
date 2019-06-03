@@ -5,6 +5,7 @@ h1{
   font-style: normal;
   font-family: sans-serif;
   text-align: center;
+  text-indent: inherit;
 }
 /*********Body*******************************/
 /****************************************************/
