@@ -23,6 +23,7 @@ P{
   font-family: sans-serif;
 }
 
+
 label{
   margin-left: auto;
   margin-right: auto;
@@ -32,6 +33,7 @@ label{
   float:left;
   display: inherit;
 }
+
 body{
   background-image: url(../images/3.jpg);
   height: 100vh;
