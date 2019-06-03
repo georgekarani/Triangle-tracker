@@ -29,16 +29,16 @@
 
 * Once index.html is opened on browser there are three empty sides: Side A, Side B, Side C. Furthermore; a Find Out and Reset button.
 
-* Input Example : first side = 1, second side = 1, third side = 3
+* Input Example : side A = 1, side B  = 1, side C = 3
   Output Example: It's not a triangle
 
-* Input Example: first side = 5, second side = 5, third side = 5
+* Input Example: side A = 5, side B = 5, side C = 5
   Output Example: It's an equilateral triangle:all sides are equal
 
-* Input Example: first side = 4, second side = 4, third side = 5
+* Input Example: side A  = 4, side B = 4, side C = 5
 Output Example: It's an isosceles triangle;two sides are equal
 
-* Input Example: first side = 4, second side = 5, third side = 6
+* Input Example: side A = 4, side B = 5, side C = 6
  Output Example: It's an scalene triangle:No sides are not equal
 
 
