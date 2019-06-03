@@ -27,7 +27,8 @@
 * Open index.html on any browser
 
 ### BEHAVIOR DRIVEN DEVELOPMENT
-#### This app is therefore expected to work as following:
+#### An Example of how the Triangle Tracker works:
+
 * Once index.html is opened on browser there are three empty sides: Side A, Side B, Side C. Further a Find Out and Reset button.
 
 ** Input Example : first side = 1, second side = 1, third side = 3
