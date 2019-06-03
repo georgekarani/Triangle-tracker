@@ -38,7 +38,7 @@
 * Input Example: first side = 4, second side = 4, third side = 5
 Output Example: It's an isosceles triangle;two sides are equal
 
-*Input Example: first side = 4, second side = 5, third side = 6
+* Input Example: first side = 4, second side = 5, third side = 6
  Output Example: It's an scalene triangle:No sides are not equal
 
 
