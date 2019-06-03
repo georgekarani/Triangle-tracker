@@ -26,7 +26,7 @@ function triangle() {
     //****always trace the triangle*****
     track(a,b,c);
   }
-   //*****Note to self:complete the function acc to lms*****
+   //*****Note to self:complete the function acc to lms i.e user story*****
 }
 function track(a,b,c) {
   if(a + b > c && b + c > a && c + a > b) {
