@@ -6,10 +6,8 @@
 
 ### Description:
 * Triangle tracker is a learning website app, with the ability to detect the type of a triangle when a user keys in the values of the three sides of the triangle.
-* These triangles are; Equilateral, Scalene, Isosceles or not a triangle.
-
-* It's a working,useful app to the learners
-* Furthermore it's a tool for fun as a user can key in values just  to find out type of triangles.
+* These triangles are; Equilateral, Scalene, Isosceles or not a triangle at all.
+* Furthermore it's a website app that can be fun for a user as they key in values just to find out the three types of triangles.
 
 ### Languages used:
 * HTML
@@ -18,18 +16,18 @@
 * GIT and GITHUB
 
 ### Setup requirements:
-* Web browser(Chrome,Opera,Fireworks web browser)
+* Web browser(Chrome,Opera,Firefox web browser)
 * Stable internet connection
 
 ### SETUP(installation)
-* git clone 
+* git clone https://github.com/georgekarani/Triangle-tracker.git
 * cd Triangle tracker
 * Open index.html on any browser
 
 ### BEHAVIOR DRIVEN DEVELOPMENT
 #### An Example of how the Triangle Tracker works:
 
-* Once index.html is opened on browser there are three empty sides: Side A, Side B, Side C. Further a Find Out and Reset button.
+* Once index.html is opened on browser there are three empty sides: Side A, Side B, Side C. Furthermore; a Find Out and Reset button.
 
 ** Input Example : first side = 1, second side = 1, third side = 3
 ** Output Example: It's not a triangle
