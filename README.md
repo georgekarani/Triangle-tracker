@@ -28,12 +28,12 @@
 
 ### BEHAVIOR DRIVEN DEVELOPMENT
 #### This app is therefore expected to work as following:
-* Once index.html open on browser there are three empty sides: Side A, Side B, Side C. Further a Find Out and Reset button.
+* Once index.html is opened on browser there are three empty sides: Side A, Side B, Side C. Further a Find Out and Reset button.
 
 ** Input Example : first side = 1, second side = 1, third side = 3
 ** Output Example: It's not a triangle
 
-** Input Example: first side = 4, second side = 4, third side = 4
+** Input Example: first side = 5, second side = 5, third side = 5
 ** Output Example: It's an equilateral triangle:all sides are equal
 
 ** Input Example: first side = 4, second side = 4, third side = 5
