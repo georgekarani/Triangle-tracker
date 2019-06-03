@@ -31,13 +31,13 @@ function triangle() {
 function track(a,b,c) {
   if(a + b > c && b + c > a && c + a > b) {
     if(a === b && a === c) {
-      display.innerHTML = "<p class='display-text'>That is an <span class='type'>Equilateral</span> triangle<p><span class='fill'></span>All Sides Are Equal";
+      display.innerHTML = "<p class='display-text'>This is an <span class='type'>Equilateral</span> triangle:<p><span class='fill'> All</span> sides are equal";
     }
     else if(a === b || b === c || a === c) {
-      display.innerHTML = "<p class='display-text'>That is an <span class='type'>Isosceles</span> triangle<p><span class='fill'></span> Two Sides Are Equal";
+      display.innerHTML = "<p class='display-text'>This is an <span class='type'>Isosceles</span> triangle:<p><span class='fill'></span> Two sides are equal";
     }
     else {
-      display.innerHTML = "<p class='display-text'>That is a <span class='type'>Scalene</span> triangle<p><span class='not'>NO</span> No Sides Are Equal";
+      display.innerHTML = "<p class='display-text'>This is a <span class='type'>Scalene</span> triangle:<p><span class='not'>No</span> sides are equal";
     }
   }
   else if(isNaN(a) || isNaN(b) || isNaN(c)) {

@@ -19,6 +19,7 @@ P{
 label{
   display: inline-block;
   margin-top: auto;
+  padding: inherit;
 }
 body{
   background-image: url(../images/3.jpg);
