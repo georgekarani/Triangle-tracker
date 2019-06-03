@@ -47,7 +47,7 @@
 
 
 ### Contact information
-* Incase of any issues contact me at georgekarani77@gmail.com
+* In case of any issues contact me at georgekarani77@gmail.com
 
 
 ### License and Copyright Information
