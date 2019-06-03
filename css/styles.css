@@ -1,4 +1,4 @@
-/*********Heading***********************/
+/*********Heading styling***********************/
 /*************************************/
 h1{
   color: blue;
@@ -7,7 +7,7 @@ h1{
   text-align: center;
   text-indent: inherit;
 }
-/*********Body*******************************/
+/*********Body styling*******************************/
 /****************************************************/
 P{
   font-size: 20PX;
@@ -21,6 +21,7 @@ P{
   display: inline-block;
   float: left;
   font-family: sans-serif;
+  font-size: 15px;
 }
 
 label{
