@@ -1,7 +1,7 @@
 ## TRIANGLE TRACKER
 
 ### Author:
-George karani
+* George Karani
 
 
 ### Description:
